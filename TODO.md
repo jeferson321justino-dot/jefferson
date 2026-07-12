@@ -1,0 +1,2 @@
+- [x] Inserir a foto `image.png` dentro da galeria (tab Fotos) em `index.html`.
+- [x] Validar que a modal já funciona via `js/script.js` (usa a lista `#tab-fotos .thumb`).

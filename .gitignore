@@ -1,0 +1,16 @@
+# Editor / IDE
+.vscode/
+*.swp
+*.swo
+
+# Sistema
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+
+# Builds (caso no futuro adicione)
+dist/
+build/
+
