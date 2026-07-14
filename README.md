@@ -22,7 +22,7 @@ Procure por:
 const WHATSAPP_NUMBER = "69992131686";
 ```
 
-- Formato: **apenas números**, com DDD (ex: `11999999999`).
+- Formato: **apenas números**, com DDD (ex: `69992131686`).
 
 ## Publicar no GitHub Pages (melhor forma)
 ### Opção recomendada: publicar a pasta `24h-moveis/`
