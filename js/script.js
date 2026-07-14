@@ -1,6 +1,6 @@
 // ====== AJUSTE O NÚMERO DO WHATSAPP AQUI ======
-// Formato: apenas números com DDD. Ex: 11999999999
-const WHATSAPP_NUMBER = "69992131686";
+// Formato: apenas números com DDD. Ex: 5569992131686
+const WHATSAPP_NUMBER = "5569992131686";
 
 function waLink(text){
   const encoded = encodeURIComponent(text);
